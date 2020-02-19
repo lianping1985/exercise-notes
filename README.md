@@ -1,2 +1,2 @@
-# test
-测试用,dd
+# exercise-notes
+练习手册
